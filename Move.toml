@@ -1,0 +1,7 @@
+[package]
+name = "suiblade"
+version = "0.1.0"
+authors = ["Francisco <tu-email@example.com>"]
+
+[addresses]
+suiblade = "0x2"
