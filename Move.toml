@@ -1,7 +1,10 @@
 [package]
 name = "suiblade"
 version = "0.1.0"
-authors = ["Francisco <mario.15.mfcg@gmail.com>"]
+authors = ["@Francis2020-crypto <mario.15.mfcg@gmail.com>"]
+
+[dependencies]
+walrus = { git = "https://github.com/MystenLabs/walrus.git" }
 
 [addresses]
 suiblade = "0x2"
