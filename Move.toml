@@ -1,7 +1,8 @@
 [package]
 name = "suiblade"
 version = "0.1.0"
-authors = ["Francisco <tu-email@example.com>"]
+authors = ["Francisco <mario.15.mfcg@gmail.com>"]
 
 [addresses]
 suiblade = "0x2"
+
